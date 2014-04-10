@@ -5,5 +5,5 @@ Tired of typing `python -mjson.tool`? Here's `pj`.
 
 ## installation
 
-With go installed, just type `go install gopkg.in/wfreeman/pj.v0`
+With go installed, just type `go get github.com/wfreeman/pj`
 
